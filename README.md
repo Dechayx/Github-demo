@@ -6,3 +6,6 @@ shradha
 
 # student
 Dechayx
+
+# school
+PICT
